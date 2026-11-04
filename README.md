@@ -106,7 +106,7 @@ Real-Mart-Sales-Analysis/
 ├── Dashboard_Screenshot.png
 └── README.md
 ```
-
+#Dashboard 'https://github.com/Sobika31/Data-analyst-Dashboard/blob/main/Excel%20Dashboard.jpeg'
 ## ▶️ How to Use This Project
 
 1. Download or clone this repository.
